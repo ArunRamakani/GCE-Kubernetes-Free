@@ -1,6 +1,8 @@
 # Creating a Kubernetes cluster in google cloud for free
 
-Details of how to use this comments can be viewed viewd here.  https://www.youtube.com/watch?v=pmA1NYqqpOs
+Details of how to use this comments can be viewed viewd here.  
+
+[![Watch the video](https://www.youtube.com/watch?v=pmA1NYqqpOs)
 
 •	Access google cloud console to enable your 300$ free trial https://cloud.google.com/free/ , and install gloud SDK  https://cloud.google.com/sdk/ 
 
