@@ -3,7 +3,7 @@
 Details of how to use this comments can be viewed viewd here.  
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=pmA1NYqqpOs)
+[![Watch the video](http://cdn.ttgtmedia.com/rms/editorial/Jani-Google-piece-Image3.jpg)](https://www.youtube.com/watch?v=pmA1NYqqpOs)
 
 
 
