@@ -1,8 +1,10 @@
 # Creating a Kubernetes cluster in google cloud for free
 
-Details of how to use this comments can be viewed viewd here.  
+Details of how to use this comments can be viewed viewd here.  https://www.youtube.com/watch?v=pmA1NYqqpOs
 
-•	Access google cloud console to enable your 300$ free trial https://console.cloud.google.com , and install gloud SDK  https://cloud.google.com/sdk/ 
+•	Access google cloud console to enable your 300$ free trial https://cloud.google.com/free/ , and install gloud SDK  https://cloud.google.com/sdk/ 
+
+•	Also enable Compute Engine and Container Engine API from https://console.cloud.google.com/apis/library
 
 • Install Kubectl CLI	https://kubernetes.io/docs/tasks/tools/install-kubectl/
 
